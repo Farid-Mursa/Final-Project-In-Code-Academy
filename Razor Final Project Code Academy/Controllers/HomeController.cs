@@ -29,6 +29,7 @@ namespace Final_Project_Razor.Controllers
             ViewBag.NewWatch = _context.Accessories.Include(x => x.AccessoryImages).Include(x => x.AccessoryCategories).Include(x => x.Brand).Include(x => x.Brand).OrderByDescending(x => x.Id).Take(3).ToList();
             ViewBag.NewPhone = _context.Products.Include(x => x.ProductImages).Include(x => x.productCategories).Include(x => x.Brand).OrderByDescending(x=>x.Id).Take(3).ToList();
 
+            ViewBag.Category = _context.Categories.ToList();
             return View();
 		}
 
@@ -46,8 +47,6 @@ namespace Final_Project_Razor.Controllers
 
                 products = products
             };
-
-
             return PartialView("_SearchPartial", model);
         }
 	}

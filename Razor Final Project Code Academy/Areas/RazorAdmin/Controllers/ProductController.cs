@@ -281,12 +281,13 @@ namespace Razor_Final_Project_Code_Academy.Areas.RazorAdmin.Controllers
 
         private ProductVM? EditedModel(int id)
         {
-            ProductVM? model = _context.Products.Include(p => p.ProductImages).
-                Include(p => p.productCategories)
+            ProductVM? model = _context.Products.
+               Include(p => p.ProductImages).
+                 Include(p => p.productCategories)
                     .Include(p => p.ProductRamMemories).
                         ThenInclude(p => p.Ram).
                           Include(p => p.ProductRamMemories).
-                        ThenInclude(pc => pc.Memory)
+                             ThenInclude(pc => pc.Memory)
                                             .Select(p =>
                                                 new ProductVM
                                                 {
@@ -316,7 +317,7 @@ namespace Razor_Final_Project_Code_Academy.Areas.RazorAdmin.Controllers
             return model;
         }
 
-        public IActionResult Details(int id)
+        public IActionResult Detail(int id)
         {
             if (id == 0) return BadRequest();
             ProductVM? model = EditedModel(id);
@@ -348,7 +349,8 @@ namespace Razor_Final_Project_Code_Academy.Areas.RazorAdmin.Controllers
             if (id != deleteProduct.Id) return NotFound();
             Product? product = _context.Products.FirstOrDefault(s => s.Id == id);
             if (product is null) return NotFound();
-            IEnumerable<string> removables = product.ProductImages.Where(p => !deleteProduct.ImagesId.Contains(p.Id)).Select(i => i.Image).AsEnumerable();
+            IEnumerable<string> removables = product.ProductImages.Where(p => !deleteProduct.ImagesId.Contains(p.Id)).Select(i => i.Image)
+                .AsEnumerable();
             var imagefolderPath = Path.Combine(_env.WebRootPath, "assets", "images");
 
             foreach (string removable in removables)
@@ -361,6 +363,14 @@ namespace Razor_Final_Project_Code_Academy.Areas.RazorAdmin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        public IActionResult Search(string search)
+        {
+            var searchingProduct = _context.Products.Include(x => x.ProductImages).AsQueryable().Where(x => x.Name.Contains(search));
+
+            List<Product> products = searchingProduct.OrderByDescending(x => x.Id).ToList();
+
+            return PartialView("_adminSearchProductPartial", products);
+        }
 
         private async Task AdjustPlantPhoto(bool? ismain, IFormFile image, Product product)
         {

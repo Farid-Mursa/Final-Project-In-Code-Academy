@@ -4,6 +4,8 @@
     List<Accessory> accessories = ViewBag.Accessory;
     List<Product> products = ViewBag.Product;
     List<Wishlist> wishlist = ViewBag.WishList;
+    var AccessoryColor = Model.accessoryColors.Sum(q => q.Quantity);
+
 }
 <section id="detail">
     <div class="container">
@@ -189,11 +191,24 @@
                                 </div>
 
                                 <div class="addToCard">
-                                    <div class="add">
-                                        <button type="submit" class="addToCard">
-                                            ADD TO CARD
-                                        </button>
-                                    </div>
+
+
+                                    @if (AccessoryColor != 0)
+                                    {
+                                        <div class="add">
+                                            <button type="submit" class="addToCard">
+                                                ADD TO CARD
+                                            </button>
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <div class="alert alert-dark" role="alert">
+                                            Not In Stock!
+                                        </div>
+                                    }
+
+
                                     <div class="wishlist">
 
                                         <div class="icon">
@@ -208,7 +223,7 @@
                                         <div class="panelWish">
                                             @if (User.Identity.IsAuthenticated)
                                             {
-                                                if (wishlist.Any(x=>x.IsAccessory==true))
+                                                if (wishlist.Any(x => x.IsAccessory == true))
                                                 {
                                                     bool isItemInWishlist = wishlist.Any(items => items.AccessoryId == Model.Id);
 

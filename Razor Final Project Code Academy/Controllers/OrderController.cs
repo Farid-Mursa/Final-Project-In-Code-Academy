@@ -102,7 +102,7 @@ namespace Razor_Final_Project_Code_Academy.Controllers
                 ModelState.AddModelError("Address", "Please write youre Phone Number.");
                 return View();
             }
-            var order = new Order
+            Order order = new Order
             {
                 FullName = model.FullName,
                 Email = model.Email,
@@ -131,19 +131,28 @@ namespace Razor_Final_Project_Code_Academy.Controllers
                         .Include(x => x.Product)
                         .FirstOrDefaultAsync(psc => psc.Id == basketItem.ProductRamMemoryId);
 
-                    if (productRamMemory == null)
+                    if (productRamMemory.Quantity == 0)
                     {
-                        ModelState.AddModelError("productRamMemory", "Product Ram Memory does not exist.");
+                        var orderItems = _context.OrderItems.Where(o => o.ProductRamMemoryId == productRamMemory.Id).ToList();
+                        _context.OrderItems.RemoveRange(orderItems);
+
+                        var basketItems = _context.BasketItems.Where(b => b.ProductRamMemoryId == productRamMemory.Id).ToList();
+                        _context.BasketItems.RemoveRange(basketItems);
+
+                        _context.ProductRamMemories.Remove(productRamMemory);
+
+                        _context.SaveChanges();
+
                         return View(model);
                     }
 
                     if (basketItem.SaleQuantity > productRamMemory.Quantity)
                     {
-                        ModelState.AddModelError("Quantity", "The selected quantity is not available in stock.");
+                        ModelState.AddModelError(" ", "The selected quantity is not available in stock.");
                         return View(model);
                     }
 
-                    var orderItem = new OrderItem
+                    OrderItem orderItem = new OrderItem
                     {
                         SaleQuantity = basketItem.SaleQuantity,
                         UnitPrice = (decimal)productRamMemory.Product.DiscountPrice,
@@ -156,7 +165,7 @@ namespace Razor_Final_Project_Code_Academy.Controllers
 
                     decimal itemTotalPrice = orderItem.UnitPrice * orderItem.SaleQuantity;
                     totalPrice += itemTotalPrice;
-
+               
                     productRamMemory.Quantity = (byte)(productRamMemory.Quantity - basketItem.SaleQuantity);
                     productRamMemory.Product.Count++;
                    
@@ -172,15 +181,24 @@ namespace Razor_Final_Project_Code_Academy.Controllers
                         .Include(p => p.Accessory)
                         .FirstOrDefaultAsync(psc => psc.Id == basketItem.accessoryColorId);
 
-                    if (accessoryColor == null)
+                    if (accessoryColor.Quantity == 0)
                     {
-                        ModelState.AddModelError("productColor", "Product Ram Memory does not exist.");
+                        var orderItems = _context.OrderItems.Where(o => o.AccessoryColorId == accessoryColor.Id).ToList();
+                        _context.OrderItems.RemoveRange(orderItems);
+
+                        var basketItems = _context.BasketItems.Where(b => b.accessoryColorId == accessoryColor.Id).ToList();
+                        _context.BasketItems.RemoveRange(basketItems);
+
+                        _context.AccessoryColors.Remove(accessoryColor);
+
+                        _context.SaveChanges();
+
                         return View(model);
                     }
 
                     if (basketItem.SaleQuantity > accessoryColor.Quantity)
                     {
-                        ModelState.AddModelError("Quantity", "The selected quantity is not available in stock.");
+                        ModelState.AddModelError(" ", "The selected quantity is not available in stock.");
                         return View(model);
                     }
 
@@ -197,7 +215,7 @@ namespace Razor_Final_Project_Code_Academy.Controllers
 
                     decimal itemTotalPrice = orderItem.UnitPrice * orderItem.SaleQuantity;
                     totalPrice += itemTotalPrice;
-
+           
                     accessoryColor.Quantity = (byte)(accessoryColor.Quantity - basketItem.SaleQuantity);
                     accessoryColor.Accessory.Count++;
                 }

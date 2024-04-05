@@ -273,7 +273,7 @@ namespace Razor_Final_Project_Code_Academy.Areas.RazorAdmin.Controllers
         }
 
 
-        public IActionResult Details(int id)
+        public IActionResult Detail(int id)
         {
             if (id == 0) return BadRequest();
             AccessoryVM? modelAcc = EditedModel(id);
@@ -313,6 +313,15 @@ namespace Razor_Final_Project_Code_Academy.Areas.RazorAdmin.Controllers
             _context.Accessories.Remove(accessory);
             _context.SaveChanges();
             return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult Search(string search)
+        {
+            var searchingAccessory = _context.Accessories.Include(x => x.AccessoryImages).AsQueryable().Where(x => x.Name.Contains(search));
+
+            List<Accessory> accessories = searchingAccessory.OrderByDescending(x => x.Id).ToList();
+
+            return PartialView("_adminSearchAccessoryPartial", accessories);
         }
 
         private AccessoryVM? EditedModel(int id)

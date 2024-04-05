@@ -1,21 +1,26 @@
 ﻿using System;
 using System.Security.Principal;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Razor_Final_Project_Code_Academy.DAL;
 using Razor_Final_Project_Code_Academy.Entities;
 using Razor_Final_Project_Code_Academy.ViewModel;
+using Razor_Final_Project_Code_Academy.ViewModel.Roles;
 
 namespace Razor_Final_Project_Code_Academy.Areas.RazorAdmin.Controllers
 {
-	public class AccountAdminController:Controller
+    [Area("RazorAdmin")]
+    [Authorize(Roles = "SuperAdmin")]
+    public class AdminRegisterController:Controller
 	{
+        private readonly RazorDbContext _context;
         private readonly UserManager<User> _userManager;
-        private readonly SignInManager<User> _signInManager;
 
-        public AccountAdminController(UserManager<User> userManager, SignInManager<User> signInManager)
+        public AdminRegisterController(RazorDbContext context, UserManager<User> userManager)
 		{
-           _userManager = userManager;
-           _signInManager = signInManager;
+            _context = context;
+            _userManager = userManager;
         }
 
         public IActionResult Register()
@@ -47,13 +52,11 @@ namespace Razor_Final_Project_Code_Academy.Areas.RazorAdmin.Controllers
                 }
                 return View();
             }
-            return RedirectToAction(nameof(Index));
-        }
 
-        public IActionResult Login()
-        {
-            return View();
+            await _userManager.AddToRoleAsync(user, Roles.Admin.ToString());
+
+            return RedirectToAction("Index", "Diagram");
         }
-	}
+    }
 }
 
