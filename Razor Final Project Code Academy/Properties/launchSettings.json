@@ -9,13 +9,13 @@
   },
   "profiles": {
     "Razor_Final_Project_Code_Academy": {
-      "commandName": "Project",
-      "launchBrowser": true,
-      "applicationUrl": "https://localhost:7077;http://localhost:5027",
-      "environmentVariables": {
-        "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "dotnetRunMessages": true
+        "commandName": "Project",
+        "launchBrowser": true,
+        "applicationUrl": "https://localhost:7246;http://localhost:5027",
+        "environmentVariables": {
+            "ASPNETCORE_ENVIRONMENT": "Development"
+        },
+        "dotnetRunMessages": true
     },
     "IIS Express": {
       "commandName": "IISExpress",

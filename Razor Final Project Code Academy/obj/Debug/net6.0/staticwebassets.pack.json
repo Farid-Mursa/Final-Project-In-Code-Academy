@@ -1,1263 +1,1299 @@
 {
   "Files": [
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/obj/Debug/net6.0/scopedcss/projectbundle/Razor Final Project Code Academy.bundle.scp.css",
-      "PackagePath": "staticwebassets/Razor Final Project Code Academy.bundle.scp.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Razor Final Project Code Academy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Razor Final Project Code Academy.bundle.scp.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/.DS_Store",
-      "PackagePath": "staticwebassets/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\.DS_Store",
+      "PackagePath": "staticwebassets\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/css/maps/style.css.map",
-      "PackagePath": "staticwebassets/Admin/assets/css/maps/style.css.map"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\maps\\style.css.map"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/css/style.css",
-      "PackagePath": "staticwebassets/Admin/assets/css/style.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\style.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Black.eot",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Black.eot"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Black.eot"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Black.ttf",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Black.ttf"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Black.ttf"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Black.woff",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Black.woff"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Black.woff"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Black.woff2",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Black.woff2"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Black.woff2"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Bold.eot",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Bold.eot"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Bold.eot"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Bold.ttf",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Bold.ttf"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Bold.ttf"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Bold.woff",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Bold.woff"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Bold.woff2",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Bold.woff2"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Bold.woff2"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Light.eot",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Light.eot"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Light.eot"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Light.ttf",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Light.ttf"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Light.ttf"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Light.woff",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Light.woff"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Light.woff"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Light.woff2",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Light.woff2"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Light.woff2"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Medium.eot",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Medium.eot"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Medium.eot"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Medium.ttf",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Medium.ttf"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Medium.ttf"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Medium.woff",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Medium.woff"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Medium.woff2",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Medium.woff2"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Medium.woff2"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Regular.eot",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Regular.eot"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Regular.eot"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Regular.ttf",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Regular.ttf"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Regular.ttf"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Regular.woff",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Regular.woff"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/fonts/Roboto/Roboto-Regular.woff2",
-      "PackagePath": "staticwebassets/Admin/assets/fonts/Roboto/Roboto-Regular.woff2"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\Roboto\\Roboto-Regular.woff2"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/images/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/auth/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/images/auth/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/auth/lockscreen-bg.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/auth/lockscreen-bg.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\lockscreen-bg.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/auth/login-bg.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/auth/login-bg.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\login-bg.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/auth/register-bg.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/auth/register-bg.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\register-bg.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face1.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face10.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face10.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face10.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face11.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face11.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face11.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face12.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face12.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face12.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face13.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face13.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face13.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face14.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face14.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face14.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face15.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face15.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face15.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face16.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face16.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face16.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face17.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face17.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face17.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face18.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face18.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face18.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face19.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face19.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face19.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face2.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face2.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face2.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face20.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face20.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face20.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face21.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face21.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face21.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face22.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face22.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face22.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face23.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face23.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face23.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face24.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face24.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face24.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face25.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face25.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face25.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face26.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face26.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face26.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face27.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face27.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face27.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face3.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face3.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face3.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face4.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face4.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face4.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face5.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face5.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face5.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face6.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face6.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face6.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face7.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face7.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face7.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face8.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face8.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face8.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/faces/face9.jpg",
-      "PackagePath": "staticwebassets/Admin/assets/images/faces/face9.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\faces\\face9.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/favicon.ico",
-      "PackagePath": "staticwebassets/Admin/assets/images/favicon.ico"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.ico"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/favicon.png",
-      "PackagePath": "staticwebassets/Admin/assets/images/favicon.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/logo-mini.svg",
-      "PackagePath": "staticwebassets/Admin/assets/images/logo-mini.svg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo-mini.svg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/images/logo.svg",
-      "PackagePath": "staticwebassets/Admin/assets/images/logo.svg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo.svg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/js/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/Chart.min.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/Chart.min.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\Chart.min.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/chart.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/chart.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\chart.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/dashboard.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/dashboard.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\dashboard.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/data-table.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/data-table.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\data-table.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/dataTables.bootstrap4.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/dataTables.bootstrap4.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/documentation.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/documentation.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\documentation.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/file-upload.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/file-upload.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\file-upload.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/hoverable-collapse.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/hoverable-collapse.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\hoverable-collapse.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/jquery.cookie.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/jquery.cookie.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.cookie.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/jquery.dataTables.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/jquery.dataTables.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.dataTables.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/off-canvas.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/off-canvas.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\off-canvas.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/tabs.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/tabs.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\tabs.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/js/template.js",
-      "PackagePath": "staticwebassets/Admin/assets/js/template.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\js\\template.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\template.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/pages/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/charts/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/pages/charts/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\charts\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\charts\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/charts/chartjs.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/charts/chartjs.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\charts\\chartjs.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/forms/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/pages/forms/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\forms\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\forms\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/forms/basic_elements.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/forms/basic_elements.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\forms\\basic_elements.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/icons/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/pages/icons/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\icons\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/icons/mdi.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/icons/mdi.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\icons\\mdi.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/samples/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/pages/samples/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\samples\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\samples\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/samples/lock-screen.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/samples/lock-screen.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\samples\\lock-screen.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/samples/login-2.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/samples/login-2.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\samples\\login-2.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/samples/login.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/samples/login.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\samples\\login.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/samples/register-2.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/samples/register-2.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\samples\\register-2.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/samples/register.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/samples/register.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\samples\\register.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/tables/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/pages/tables/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\tables\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\tables\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/tables/basic-table.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/tables/basic-table.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\tables\\basic-table.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/ui-features/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/pages/ui-features/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\ui-features\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\ui-features\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/ui-features/buttons.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/ui-features/buttons.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\ui-features\\buttons.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/pages/ui-features/typography.html",
-      "PackagePath": "staticwebassets/Admin/assets/pages/ui-features/typography.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\pages\\ui-features\\typography.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/partials/_footer.html",
-      "PackagePath": "staticwebassets/Admin/assets/partials/_footer.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\partials\\_footer.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/partials/_navbar.html",
-      "PackagePath": "staticwebassets/Admin/assets/partials/_navbar.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\partials\\_navbar.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/partials/_settings-panel.html",
-      "PackagePath": "staticwebassets/Admin/assets/partials/_settings-panel.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\partials\\_settings-panel.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/partials/_sidebar.html",
-      "PackagePath": "staticwebassets/Admin/assets/partials/_sidebar.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\Admin\\assets\\partials\\_sidebar.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/.DS_Store",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/base/bootstrap.min.js.map",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/base/bootstrap.min.js.map"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\base\\bootstrap.min.js.map"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/base/vendor.bundle.base.css",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/base/vendor.bundle.base.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\base\\vendor.bundle.base.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/base/vendor.bundle.base.js",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/base/vendor.bundle.base.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\base\\vendor.bundle.base.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/chart.js/Chart.min.js",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/chart.js/Chart.min.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\chart.js\\Chart.min.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.css",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.js",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/datatables.net-bs4/dataTables.bootstrap4.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/datatables.net/jquery.dataTables.js",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/datatables.net/jquery.dataTables.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\datatables.net\\jquery.dataTables.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/mdi/css/materialdesignicons.min.css",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/mdi/css/materialdesignicons.min.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/mdi/css/materialdesignicons.min.css.map",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/mdi/css/materialdesignicons.min.css.map"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.eot",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.eot"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.ttf"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/Admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2",
-      "PackagePath": "staticwebassets/Admin/assets/vendors/mdi/fonts/materialdesignicons-webfont.woff2"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/.DS_Store",
-      "PackagePath": "staticwebassets/assets/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/css/.DS_Store",
-      "PackagePath": "staticwebassets/assets/css/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\css\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/css/main.css",
-      "PackagePath": "staticwebassets/assets/css/main.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/css/main.css.map",
-      "PackagePath": "staticwebassets/assets/css/main.css.map"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css.map"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/css/owl.carousel.min.css",
-      "PackagePath": "staticwebassets/assets/css/owl.carousel.min.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/css/owl.theme.default.css",
-      "PackagePath": "staticwebassets/assets/css/owl.theme.default.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\css\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.theme.default.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/.DS_Store",
-      "PackagePath": "staticwebassets/assets/images/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\images\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/HeaderLogo/logo-2_1553586230__63532.original.png",
-      "PackagePath": "staticwebassets/assets/images/HeaderLogo/logo-2_1553586230__63532.original.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\HeaderLogo\\logo-2_1553586230__63532.original.png",
+      "PackagePath": "staticwebassets\\assets\\images\\HeaderLogo\\logo-2_1553586230__63532.original.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/More/quocte.png",
-      "PackagePath": "staticwebassets/assets/images/More/quocte.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\More\\quocte.png",
+      "PackagePath": "staticwebassets\\assets\\images\\More\\quocte.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/.DS_Store",
-      "PackagePath": "staticwebassets/assets/images/Product/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/100images (1).jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/100images (1).jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\100images (1).jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\100images (1).jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/108download.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/108download.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\108download.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\108download.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/110FA-01-I000001BA.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/110FA-01-I000001BA.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\110FA-01-I000001BA.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\110FA-01-I000001BA.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/124honor-watch-gs-3-mus-b19-classic-gold.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/124honor-watch-gs-3-mus-b19-classic-gold.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\124honor-watch-gs-3-mus-b19-classic-gold.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\124honor-watch-gs-3-mus-b19-classic-gold.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/133MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/133MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\133MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\133MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/140FKN73.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/140FKN73.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\140FKN73.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\140FKN73.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/158DSC04144_processed.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/158DSC04144_processed.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\158DSC04144_processed.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\158DSC04144_processed.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/164MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/164MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\164MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\164MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/169download.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/169download.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\169download.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\169download.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/173MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/173MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\173MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\173MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/174bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif",
-      "PackagePath": "staticwebassets/assets/images/Product/174bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\174bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\174bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/182ultra-midnightband1.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/182ultra-midnightband1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\182ultra-midnightband1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\182ultra-midnightband1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/188180041-8e6b7b53ec791449930d4b315592c5e0.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/188180041-8e6b7b53ec791449930d4b315592c5e0.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\188180041-8e6b7b53ec791449930d4b315592c5e0.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\188180041-8e6b7b53ec791449930d4b315592c5e0.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/188ultra-midnightband1.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/188ultra-midnightband1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\188ultra-midnightband1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\188ultra-midnightband1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/195MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/195MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\195MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\195MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/217in_the_box_cream_plus_MO.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/217in_the_box_cream_plus_MO.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\217in_the_box_cream_plus_MO.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\217in_the_box_cream_plus_MO.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/225MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/225MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\225MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\225MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/230MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/230MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\230MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\230MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/230sss.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/230sss.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\230sss.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\230sss.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/251ultra-midnightband1.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/251ultra-midnightband1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\251ultra-midnightband1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\251ultra-midnightband1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/25786116.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/25786116.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\25786116.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\25786116.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/26-26__83504.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/26-26__83504.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\26-26__83504.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\26-26__83504.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/290ultra-midnightband1.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/290ultra-midnightband1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\279landscape-samsung-galaxyzflip4-borapurple-02-900x1200.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\279landscape-samsung-galaxyzflip4-borapurple-02-900x1200.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/291DSC04144_processed.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/291DSC04144_processed.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\290ultra-midnightband1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\290ultra-midnightband1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/2__54401.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/2__54401.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\291DSC04144_processed.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\291DSC04144_processed.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/3261MQsr9LgwL._AC_UF894,1000_QL80_.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/3261MQsr9LgwL._AC_UF894,1000_QL80_.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\2__54401.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\2__54401.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/331MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/331MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\3261MQsr9LgwL._AC_UF894,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\3261MQsr9LgwL._AC_UF894,1000_QL80_.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/351download.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/351download.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\331MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\331MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/370MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/370MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\33777x77q100-sm_f721_zflip4_openfront_graphite_220527.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\33777x77q100-sm_f721_zflip4_openfront_graphite_220527.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/385MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/385MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\349samsung-galaxy-flip-4-black-1-800x800.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\349samsung-galaxy-flip-4-black-1-800x800.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/39FA-01-I000001BA.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/39FA-01-I000001BA.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\351download.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\351download.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/3s48v787v4s7v.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/3s48v787v4s7v.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\370MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\370MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/402Apple-iPhone-14-Pro-iPhone-14-Pro-Max-silver-220907_inline.jpg.large.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/402Apple-iPhone-14-Pro-iPhone-14-Pro-Max-silver-220907_inline.jpg.large.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\379IMG_0994-edited-766x1024.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\379IMG_0994-edited-766x1024.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/403Herstellerfoto_2.png",
-      "PackagePath": "staticwebassets/assets/images/Product/403Herstellerfoto_2.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\3801.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\3801.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/405Apple-Watch-Ultra-3up-hero-220907_Full-Bleed-Image.jpg.large.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/405Apple-Watch-Ultra-3up-hero-220907_Full-Bleed-Image.jpg.large.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\385MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\385MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/412MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/412MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\399images.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\399images.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/419kv-galaxy-s23_s.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/419kv-galaxy-s23_s.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\39FA-01-I000001BA.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\39FA-01-I000001BA.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/42201-DM1-Cream-PDP-1600x1200.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/42201-DM1-Cream-PDP-1600x1200.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\3s48v787v4s7v.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\3s48v787v4s7v.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/42nothing case.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/42nothing case.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\402Apple-iPhone-14-Pro-iPhone-14-Pro-Max-silver-220907_inline.jpg.large.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\402Apple-iPhone-14-Pro-iPhone-14-Pro-Max-silver-220907_inline.jpg.large.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/435bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif",
-      "PackagePath": "staticwebassets/assets/images/Product/435bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\403Herstellerfoto_2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\403Herstellerfoto_2.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/478kv-galaxy-s23_s.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/478kv-galaxy-s23_s.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\405Apple-Watch-Ultra-3up-hero-220907_Full-Bleed-Image.jpg.large.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\405Apple-Watch-Ultra-3up-hero-220907_Full-Bleed-Image.jpg.large.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/483bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif",
-      "PackagePath": "staticwebassets/assets/images/Product/483bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\412MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\412MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/49081KbgrFcqCL._AC_UF1000,1000_QL80_.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/49081KbgrFcqCL._AC_UF1000,1000_QL80_.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\419kv-galaxy-s23_s.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\419kv-galaxy-s23_s.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/49101-DM1-Cream-PDP-1600x1200 (1).webp",
-      "PackagePath": "staticwebassets/assets/images/Product/49101-DM1-Cream-PDP-1600x1200 (1).webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\42201-DM1-Cream-PDP-1600x1200.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\42201-DM1-Cream-PDP-1600x1200.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/521images.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/521images.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\42nothing case.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\42nothing case.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/52214825_big.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/52214825_big.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\435bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\435bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/540MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/540MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\478kv-galaxy-s23_s.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\478kv-galaxy-s23_s.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/574DSC04144_processed.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/574DSC04144_processed.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\483bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\483bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/587MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/587MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\48977x77q100-sm_f721_zflip4_openback_graphite_220527.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\48977x77q100-sm_f721_zflip4_openback_graphite_220527.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/589carousel-vertu-signature-v-design-black-alligator.png.pagespeed.ce.sJ-7MOsx9X.png",
-      "PackagePath": "staticwebassets/assets/images/Product/589carousel-vertu-signature-v-design-black-alligator.png.pagespeed.ce.sJ-7MOsx9X.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\49081KbgrFcqCL._AC_UF1000,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\49081KbgrFcqCL._AC_UF1000,1000_QL80_.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/597refurb-iphone11-black-2019.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/597refurb-iphone11-black-2019.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\49101-DM1-Cream-PDP-1600x1200 (1).webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\49101-DM1-Cream-PDP-1600x1200 (1).webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/59FKMY3_AV1.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/59FKMY3_AV1.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\521images.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\521images.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/6022020-apple-iphone-11-black-front.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/6022020-apple-iphone-11-black-front.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\52214825_big.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\52214825_big.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/60300189060014704____4__640x640-2.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/60300189060014704____4__640x640-2.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\540MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\540MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/605MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/605MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\572450x550q100-telefon_samsung_sm_f721_galaxy_z_flip_4_5g_8gb_256gb_graphite_detail.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\572450x550q100-telefon_samsung_sm_f721_galaxy_z_flip_4_5g_8gb_256gb_graphite_detail.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/610MPU63.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/610MPU63.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\574DSC04144_processed.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\574DSC04144_processed.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/618honor main.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/618honor main.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\587MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\587MQE93_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-ocean-ultra_VW_34FR_WF_CO_GEO_SG.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/62871lQfltQGfL._AC_UF1000,1000_QL80_.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/62871lQfltQGfL._AC_UF1000,1000_QL80_.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\589carousel-vertu-signature-v-design-black-alligator.png.pagespeed.ce.sJ-7MOsx9X.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\589carousel-vertu-signature-v-design-black-alligator.png.pagespeed.ce.sJ-7MOsx9X.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/6373580b718-154d-427d-898c-05b3e46332ba.779952d7e83af1cd4883757c516eb7b5.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/6373580b718-154d-427d-898c-05b3e46332ba.779952d7e83af1cd4883757c516eb7b5.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\597refurb-iphone11-black-2019.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\597refurb-iphone11-black-2019.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/640220908140014568817.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/640220908140014568817.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\59FKMY3_AV1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\59FKMY3_AV1.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/655s23 case.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/655s23 case.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\6022020-apple-iphone-11-black-front.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\6022020-apple-iphone-11-black-front.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/669FA-01-I000001BA.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/669FA-01-I000001BA.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\60300189060014704____4__640x640-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\60300189060014704____4__640x640-2.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/66gsmarena_006.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/66gsmarena_006.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\605MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\605MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/67761Cmk-sFNWL.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/67761Cmk-sFNWL.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\610MPU63.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\610MPU63.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/68361bM8Mojf6L.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/68361bM8Mojf6L.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\618honor main.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\618honor main.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/690kv-galaxy-s23_s.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/690kv-galaxy-s23_s.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\62871lQfltQGfL._AC_UF1000,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\62871lQfltQGfL._AC_UF1000,1000_QL80_.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/718MQEE3_VW_PF+watch-49-titanium-ultra_VW_PF_WF_SI+watch-face-49-ocean-ultra_VW_PF_WF_SI.png",
-      "PackagePath": "staticwebassets/assets/images/Product/718MQEE3_VW_PF+watch-49-titanium-ultra_VW_PF_WF_SI+watch-face-49-ocean-ultra_VW_PF_WF_SI.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\6373580b718-154d-427d-898c-05b3e46332ba.779952d7e83af1cd4883757c516eb7b5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\6373580b718-154d-427d-898c-05b3e46332ba.779952d7e83af1cd4883757c516eb7b5.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/736dd.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/736dd.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\640220908140014568817.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\640220908140014568817.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/743IMG-111573_823x.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/743IMG-111573_823x.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\655s23 case.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\655s23 case.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/770MPU63.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/770MPU63.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\659450x550q100-telefon_samsung_sm_f721_galaxy_z_flip_4_5g_8gb_256gb_graphite_detail.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\659450x550q100-telefon_samsung_sm_f721_galaxy_z_flip_4_5g_8gb_256gb_graphite_detail.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/7871264.800.png",
-      "PackagePath": "staticwebassets/assets/images/Product/7871264.800.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\669FA-01-I000001BA.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\669FA-01-I000001BA.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/813apple-iphone-14-pro-max-pakistan-priceoye-4hr9p.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/813apple-iphone-14-pro-max-pakistan-priceoye-4hr9p.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\66gsmarena_006.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\66gsmarena_006.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/825Galaxy-S23_KV_Ecosystem-Sleep_2p_HI.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/825Galaxy-S23_KV_Ecosystem-Sleep_2p_HI.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\67761Cmk-sFNWL.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\67761Cmk-sFNWL.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/826bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif",
-      "PackagePath": "staticwebassets/assets/images/Product/826bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\68361bM8Mojf6L.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\68361bM8Mojf6L.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/829ultra-midnightband1.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/829ultra-midnightband1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\690kv-galaxy-s23_s.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\690kv-galaxy-s23_s.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/830220908140011739119.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/830220908140011739119.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\718MQEE3_VW_PF+watch-49-titanium-ultra_VW_PF_WF_SI+watch-face-49-ocean-ultra_VW_PF_WF_SI.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\718MQEE3_VW_PF+watch-49-titanium-ultra_VW_PF_WF_SI+watch-face-49-ocean-ultra_VW_PF_WF_SI.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/83571M8i3jXVUL.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/83571M8i3jXVUL.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\736dd.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\736dd.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/87323_1500x.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/87323_1500x.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\743IMG-111573_823x.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\743IMG-111573_823x.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/87351Bkaobg6RL.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/87351Bkaobg6RL.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\770MPU63.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\770MPU63.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/88130017707b.avif",
-      "PackagePath": "staticwebassets/assets/images/Product/88130017707b.avif"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\7871264.800.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\7871264.800.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/887np1-white3.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/887np1-white3.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\813apple-iphone-14-pro-max-pakistan-priceoye-4hr9p.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\813apple-iphone-14-pro-max-pakistan-priceoye-4hr9p.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/8955302013124651PM_635_nokia_lumia_720.png",
-      "PackagePath": "staticwebassets/assets/images/Product/8955302013124651PM_635_nokia_lumia_720.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\825Galaxy-S23_KV_Ecosystem-Sleep_2p_HI.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\825Galaxy-S23_KV_Ecosystem-Sleep_2p_HI.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/89571lQfltQGfL._AC_UF1000,1000_QL80_.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/89571lQfltQGfL._AC_UF1000,1000_QL80_.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\826bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\826bellroy-leather-case-for-galaxy-s23-on-transparent-background.avif"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/898MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/898MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\829ultra-midnightband1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\829ultra-midnightband1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/931foold case.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/931foold case.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\830220908140011739119.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\830220908140011739119.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/931ultra-midnightband1.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/931ultra-midnightband1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\83571M8i3jXVUL.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\83571M8i3jXVUL.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/939IMG-111573_823x.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/939IMG-111573_823x.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\87323_1500x.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\87323_1500x.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/94134927725707294.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/94134927725707294.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\87351Bkaobg6RL.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\87351Bkaobg6RL.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/948refurb-iphone11-black-2019.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/948refurb-iphone11-black-2019.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\887np1-white3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\887np1-white3.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/962MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/962MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\8955302013124651PM_635_nokia_lumia_720.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\8955302013124651PM_635_nokia_lumia_720.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/97251OwIOZvfnL._AC_UF894,1000_QL80_.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/97251OwIOZvfnL._AC_UF894,1000_QL80_.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\89571lQfltQGfL._AC_UF1000,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\89571lQfltQGfL._AC_UF1000,1000_QL80_.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/994nokia_a00012798_lumia_720_blue_1028781.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/994nokia_a00012798_lumia_720_blue_1028781.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\898MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\898MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/Galaxy-Fold-Main-f926-silver.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/Galaxy-Fold-Main-f926-silver.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\931foold case.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\931foold case.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/Huawei-watch-False.png",
-      "PackagePath": "staticwebassets/assets/images/Product/Huawei-watch-False.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\931ultra-midnightband1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\931ultra-midnightband1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/akrales_220811_226124_0029.jpg",
-      "PackagePath": "staticwebassets/assets/images/Product/akrales_220811_226124_0029.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\939IMG-111573_823x.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\939IMG-111573_823x.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/galaxy-Fold-False-phantom-silver-hero-zoom.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/galaxy-Fold-False-phantom-silver-hero-zoom.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\94134927725707294.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\94134927725707294.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/huawei-watch-Main-gt3-42mm-elegant-5.jpeg",
-      "PackagePath": "staticwebassets/assets/images/Product/huawei-watch-Main-gt3-42mm-elegant-5.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\948refurb-iphone11-black-2019.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\948refurb-iphone11-black-2019.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/mi-band-Main-8-design-and-features.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/mi-band-Main-8-design-and-features.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\962MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\962MQDY3ref_VW_34FR+watch-49-titanium-ultra_VW_34FR_WF_CO+watch-face-49-alpine-ultra_VW_34FR_WF_CO.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/v",
-      "PackagePath": "staticwebassets/assets/images/Product"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\965images (1).jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\965images (1).jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/Product/xiaomi-mi-band-false-8.webp",
-      "PackagePath": "staticwebassets/assets/images/Product/xiaomi-mi-band-false-8.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\97251OwIOZvfnL._AC_UF894,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\97251OwIOZvfnL._AC_UF894,1000_QL80_.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/SliderImages/471apple-watch-ultra-1.jpg",
-      "PackagePath": "staticwebassets/assets/images/SliderImages/471apple-watch-ultra-1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\994nokia_a00012798_lumia_720_blue_1028781.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\994nokia_a00012798_lumia_720_blue_1028781.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/SliderImages/538iphone-14-pro_overview__e414c54gtu6a_og.png",
-      "PackagePath": "staticwebassets/assets/images/SliderImages/538iphone-14-pro_overview__e414c54gtu6a_og.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\Galaxy-Fold-Main-f926-silver.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\Galaxy-Fold-Main-f926-silver.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/SliderImages/7samsung-galaxy-fold-15.webp",
-      "PackagePath": "staticwebassets/assets/images/SliderImages/7samsung-galaxy-fold-15.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\Huawei-watch-False.png",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\Huawei-watch-False.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/SliderImages/slide_show1.jpg",
-      "PackagePath": "staticwebassets/assets/images/SliderImages/slide_show1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\akrales_220811_226124_0029.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\akrales_220811_226124_0029.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/SliderImages/slide_show2.jpg",
-      "PackagePath": "staticwebassets/assets/images/SliderImages/slide_show2.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\galaxy-Fold-False-phantom-silver-hero-zoom.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\galaxy-Fold-False-phantom-silver-hero-zoom.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/SliderImages/slide_show3.jpg",
-      "PackagePath": "staticwebassets/assets/images/SliderImages/slide_show3.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\huawei-watch-Main-gt3-42mm-elegant-5.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\huawei-watch-Main-gt3-42mm-elegant-5.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/SliderImages/test1.jpg",
-      "PackagePath": "staticwebassets/assets/images/SliderImages/test1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\mi-band-Main-8-design-and-features.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\mi-band-Main-8-design-and-features.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/advertising/54aab90ceab8eaa72b8dcf51.webp",
-      "PackagePath": "staticwebassets/assets/images/advertising/54aab90ceab8eaa72b8dcf51.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\v",
+      "PackagePath": "staticwebassets\\assets\\images\\Product"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/advertising/banner3.jpg",
-      "PackagePath": "staticwebassets/assets/images/advertising/banner3.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\Product\\xiaomi-mi-band-false-8.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\Product\\xiaomi-mi-band-false-8.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/advertising/banner4.jpg",
-      "PackagePath": "staticwebassets/assets/images/advertising/banner4.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\SliderImages\\471apple-watch-ultra-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\SliderImages\\471apple-watch-ultra-1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/advertising/banner5.webp",
-      "PackagePath": "staticwebassets/assets/images/advertising/banner5.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\SliderImages\\538iphone-14-pro_overview__e414c54gtu6a_og.png",
+      "PackagePath": "staticwebassets\\assets\\images\\SliderImages\\538iphone-14-pro_overview__e414c54gtu6a_og.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/advertising/banner_blue_mid_4.jpeg",
-      "PackagePath": "staticwebassets/assets/images/advertising/banner_blue_mid_4.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\SliderImages\\7samsung-galaxy-fold-15.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\SliderImages\\7samsung-galaxy-fold-15.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/advertising/banner_green_mid_1.jpeg",
-      "PackagePath": "staticwebassets/assets/images/advertising/banner_green_mid_1.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\SliderImages\\slide_show1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\SliderImages\\slide_show1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/advertising/banner_left_1.jpg",
-      "PackagePath": "staticwebassets/assets/images/advertising/banner_left_1.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\SliderImages\\slide_show2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\SliderImages\\slide_show2.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/advertising/banner_pizza_mid_3.jpeg",
-      "PackagePath": "staticwebassets/assets/images/advertising/banner_pizza_mid_3.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\SliderImages\\slide_show3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\SliderImages\\slide_show3.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/advertising/banner_yellow_mid_2.jpeg",
-      "PackagePath": "staticwebassets/assets/images/advertising/banner_yellow_mid_2.jpeg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\SliderImages\\test1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\SliderImages\\test1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/categoryPhoto/collection_1__36865.original.jpg",
-      "PackagePath": "staticwebassets/assets/images/categoryPhoto/collection_1__36865.original.jpg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\advertising\\54aab90ceab8eaa72b8dcf51.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\advertising\\54aab90ceab8eaa72b8dcf51.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/footerImages/icon-phone.png",
-      "PackagePath": "staticwebassets/assets/images/footerImages/icon-phone.png"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\advertising\\banner3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertising\\banner3.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/valute/au.webp",
-      "PackagePath": "staticwebassets/assets/images/valute/au.webp"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\advertising\\banner4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertising\\banner4.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/images/valute/us.gif",
-      "PackagePath": "staticwebassets/assets/images/valute/us.gif"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\advertising\\banner5.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\advertising\\banner5.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/.DS_Store",
-      "PackagePath": "staticwebassets/assets/js/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\advertising\\banner_blue_mid_4.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertising\\banner_blue_mid_4.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/accountAdress.js",
-      "PackagePath": "staticwebassets/assets/js/accountAdress.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\advertising\\banner_green_mid_1.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertising\\banner_green_mid_1.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/accountOrder.js",
-      "PackagePath": "staticwebassets/assets/js/accountOrder.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\advertising\\banner_left_1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertising\\banner_left_1.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/accountSettings.js",
-      "PackagePath": "staticwebassets/assets/js/accountSettings.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\advertising\\banner_pizza_mid_3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertising\\banner_pizza_mid_3.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/accountWishlist.js",
-      "PackagePath": "staticwebassets/assets/js/accountWishlist.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\advertising\\banner_yellow_mid_2.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\advertising\\banner_yellow_mid_2.jpeg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/cart.js",
-      "PackagePath": "staticwebassets/assets/js/cart.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\categoryPhoto\\collection_1__36865.original.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\categoryPhoto\\collection_1__36865.original.jpg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/contact.js",
-      "PackagePath": "staticwebassets/assets/js/contact.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\footerImages\\icon-phone.png",
+      "PackagePath": "staticwebassets\\assets\\images\\footerImages\\icon-phone.png"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/detail.js",
-      "PackagePath": "staticwebassets/assets/js/detail.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\valute\\au.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\valute\\au.webp"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/login.js",
-      "PackagePath": "staticwebassets/assets/js/login.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\images\\valute\\us.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\valute\\us.gif"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/order.js",
-      "PackagePath": "staticwebassets/assets/js/order.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\js\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/owl.carousel.min.js",
-      "PackagePath": "staticwebassets/assets/js/owl.carousel.min.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\accountAdress.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accountAdress.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/pages.js",
-      "PackagePath": "staticwebassets/assets/js/pages.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\accountOrder.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accountOrder.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/register.js",
-      "PackagePath": "staticwebassets/assets/js/register.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\accountSettings.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accountSettings.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/script.js",
-      "PackagePath": "staticwebassets/assets/js/script.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\accountWishlist.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accountWishlist.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/shop.js",
-      "PackagePath": "staticwebassets/assets/js/shop.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\cart.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/js/welcome.js",
-      "PackagePath": "staticwebassets/assets/js/welcome.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\contact.js",
+      "PackagePath": "staticwebassets\\assets\\js\\contact.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/.DS_Store",
-      "PackagePath": "staticwebassets/assets/scss/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\detail.js",
+      "PackagePath": "staticwebassets\\assets\\js\\detail.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/main.scss",
-      "PackagePath": "staticwebassets/assets/scss/main.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\login.js",
+      "PackagePath": "staticwebassets\\assets\\js\\login.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/.DS_Store",
-      "PackagePath": "staticwebassets/assets/scss/page/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\order.js",
+      "PackagePath": "staticwebassets\\assets\\js\\order.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_Confrim.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_Confrim.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl.carousel.min.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_accountAdress.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_accountAdress.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\pages.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_accountOrders.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_accountOrders.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\register.js",
+      "PackagePath": "staticwebassets\\assets\\js\\register.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_accountSetting.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_accountSetting.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_accountWishlist.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_accountWishlist.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_cart.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_cart.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\js\\welcome.js",
+      "PackagePath": "staticwebassets\\assets\\js\\welcome.js"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_contactUs.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_contactUs.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\scss\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_detail.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_detail.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\main.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_login.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_login.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_order.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_order.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_Confrim.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_Confrim.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_pages.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_pages.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_accountAdress.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_accountAdress.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_registration.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_registration.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_accountOrders.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_accountOrders.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_shop.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_shop.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_accountSetting.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_accountSetting.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_style.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_style.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_accountWishlist.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_accountWishlist.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/scss/page/_welcome.scss",
-      "PackagePath": "staticwebassets/assets/scss/page/_welcome.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_cart.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_cart.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/.DS_Store",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/.DS_Store"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_contactUs.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_contactUs.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/.gitignore",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/.gitignore"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_detail.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_detail.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/CONTRIBUTING.markdown",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/CONTRIBUTING.markdown"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_login.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_login.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/ISSUE_TEMPLATE.md",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/ISSUE_TEMPLATE.md"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_order.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_order.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/LICENSE",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_pages.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_pages.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/Makefile",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_registration.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_registration.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/README.markdown",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/README.markdown"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_shop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_shop.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/bower.json",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/bower.json"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_style.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/component.json",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/component.json"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\scss\\page\\_welcome.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\page\\_welcome.scss"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/css/slick-theme.css",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/css/slick-theme.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\.DS_Store",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\.DS_Store"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/css/slick-theme.css.map",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/css/slick-theme.css.map"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\.gitignore",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\.gitignore"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/css/slick.css",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/css/slick.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\CONTRIBUTING.markdown",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\CONTRIBUTING.markdown"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/css/slick.css.map",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/css/slick.css.map"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\ISSUE_TEMPLATE.md",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\ISSUE_TEMPLATE.md"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/index.html",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/index.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\LICENSE",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/package.json",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/package.json"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\Makefile",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick.jquery.json",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick.jquery.json"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\README.markdown",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\README.markdown"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/ajax-loader.gif",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/ajax-loader.gif"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\bower.json",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\bower.json"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/config.rb",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/config.rb"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\component.json",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\component.json"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/fonts/slick.eot",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/fonts/slick.eot"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\css\\slick-theme.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/fonts/slick.svg",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/fonts/slick.svg"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\css\\slick-theme.css.map",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\css\\slick-theme.css.map"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/fonts/slick.ttf",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/fonts/slick.ttf"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\css\\slick.css"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/fonts/slick.woff",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/fonts/slick.woff"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\css\\slick.css.map",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\css\\slick.css.map"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/slick-theme.css",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/slick-theme.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\index.html",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\index.html"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/slick-theme.less",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/slick-theme.less"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\package.json",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\package.json"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/slick-theme.scss",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/slick-theme.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick.jquery.json",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick.jquery.json"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/slick.css",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/slick.css"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\ajax-loader.gif"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/slick.js",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/slick.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\config.rb",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\config.rb"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/slick.less",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/slick.less"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\fonts\\slick.eot"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/slick.min.js",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/slick.min.js"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\fonts\\slick.svg"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/slick-1.8.1/slick/slick.scss",
-      "PackagePath": "staticwebassets/assets/slick-1.8.1/slick/slick.scss"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\fonts\\slick.ttf"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/template/ForgotPassword.html",
-      "PackagePath": "staticwebassets/assets/template/ForgotPassword.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\fonts\\slick.woff"
     },
     {
-      "Id": "/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/wwwroot/assets/template/verifyemail.html",
-      "PackagePath": "staticwebassets/assets/template/verifyemail.html"
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick-theme.css"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Razor Final Project Code Academy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\slick-theme.less",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick-theme.less"
+    },
+    {
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\slick-theme.scss",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.less",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.less"
+    },
+    {
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\slick-1.8.1\\slick\\slick.scss",
+      "PackagePath": "staticwebassets\\assets\\slick-1.8.1\\slick\\slick.scss"
+    },
+    {
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\template\\ForgotPassword.html",
+      "PackagePath": "staticwebassets\\assets\\template\\ForgotPassword.html"
+    },
+    {
+      "Id": "C:\\Users\\mrfar\\OneDrive\\Desktop\\FinalProject\\Razor Final Project Code Academy\\wwwroot\\assets\\template\\verifyemail.html",
+      "PackagePath": "staticwebassets\\assets\\template\\verifyemail.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Razor Final Project Code Academy.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Razor Final Project Code Academy.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Razor Final Project Code Academy.props",
       "PackagePath": "build\\Razor Final Project Code Academy.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Razor Final Project Code Academy.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Razor Final Project Code Academy.props",
       "PackagePath": "buildMultiTargeting\\Razor Final Project Code Academy.props"
     },
     {
-      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Razor Final Project Code Academy.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Razor Final Project Code Academy.props",
       "PackagePath": "buildTransitive\\Razor Final Project Code Academy.props"
     }
   ],

@@ -9,325 +9,325 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Razor_Final_Project_Code_Academy
 build_property.RootNamespace = Razor_Final_Project_Code_Academy
-build_property.ProjectDir = /Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/
+build_property.ProjectDir = C:\Users\mrfar\OneDrive\Desktop\FinalProject\Razor Final Project Code Academy\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy
+build_property.MSBuildProjectDirectory = C:\Users\mrfar\OneDrive\Desktop\FinalProject\Razor Final Project Code Academy
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9BY2Nlc3NvcnkvQ3JlYXRlLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xBY2Nlc3NvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9BY2Nlc3NvcnkvRGVsZXRlLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xBY2Nlc3NvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9BY2Nlc3NvcnkvRGV0YWlsLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xBY2Nlc3NvcnlcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9BY2Nlc3NvcnkvRWRpdC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xBY2Nlc3NvcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9BY2Nlc3NvcnkvSW5kZXguY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Accessory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xBY2Nlc3NvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/AdminLogin/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9BZG1pbkxvZ2luL0xvZ2luLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/AdminLogin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xBZG1pbkxvZ2luXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/AdminRegister/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9BZG1pblJlZ2lzdGVyL1JlZ2lzdGVyLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/AdminRegister/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xBZG1pblJlZ2lzdGVyXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Brand/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9CcmFuZC9DcmVhdGUuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Brand/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xCcmFuZFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Brand/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9CcmFuZC9EZXRhaWwuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Brand/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xCcmFuZFxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Brand/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9CcmFuZC9FZGl0LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Brand/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xCcmFuZFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Brand/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9CcmFuZC9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Brand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xCcmFuZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Category/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9DYXRlZ29yeS9DcmVhdGUuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDYXRlZ29yeVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Category/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9DYXRlZ29yeS9EZXRhaWwuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Category/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDYXRlZ29yeVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Category/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9DYXRlZ29yeS9FZGl0LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDYXRlZ29yeVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Category/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9DYXRlZ29yeS9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDYXRlZ29yeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Color/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Db2xvci9DcmVhdGUuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Color/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDb2xvclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Color/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Db2xvci9EZXRhaWwuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Color/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDb2xvclxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Color/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Db2xvci9FZGl0LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Color/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDb2xvclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Color/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Db2xvci9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Color/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDb2xvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Contact/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Db250YWN0L0VkaXQuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Contact/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDb250YWN0XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Contact/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Db250YWN0L0luZGV4LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xDb250YWN0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Delivery/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9EZWxpdmVyeS9DcmVhdGUuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Delivery/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xEZWxpdmVyeVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Delivery/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9EZWxpdmVyeS9EZXRhaWwuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Delivery/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xEZWxpdmVyeVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Delivery/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9EZWxpdmVyeS9FZGl0LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Delivery/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xEZWxpdmVyeVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Delivery/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9EZWxpdmVyeS9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Delivery/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xEZWxpdmVyeVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Diagram/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9EaWFncmFtL0luZGV4LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Diagram/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xEaWFncmFtXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Memory/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9NZW1vcnkvQ3JlYXRlLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Memory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xNZW1vcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Memory/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9NZW1vcnkvRGV0YWlsLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Memory/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xNZW1vcnlcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Memory/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9NZW1vcnkvRWRpdC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Memory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xNZW1vcnlcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Memory/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9NZW1vcnkvSW5kZXguY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Memory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xNZW1vcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Order/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9PcmRlci9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xPcmRlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Order/View.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9PcmRlci9WaWV3LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Order/View.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xPcmRlclxWaWV3LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Qcm9kdWN0L0NyZWF0ZS5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xQcm9kdWN0XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Qcm9kdWN0L0RlbGV0ZS5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xQcm9kdWN0XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Qcm9kdWN0L0RldGFpbC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xQcm9kdWN0XERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Qcm9kdWN0L0VkaXQuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xQcm9kdWN0XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9Qcm9kdWN0L0luZGV4LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xQcm9kdWN0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Ram/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9SYW0vQ3JlYXRlLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Ram/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xSYW1cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Ram/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9SYW0vRGV0YWlsLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Ram/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xSYW1cRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Ram/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9SYW0vRWRpdC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Ram/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xSYW1cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Ram/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9SYW0vSW5kZXguY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Ram/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xSYW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Setting/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9TZXR0aW5nL0NyZWF0ZS5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Setting/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xTZXR0aW5nXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Setting/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9TZXR0aW5nL0RldGFpbC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Setting/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xTZXR0aW5nXERldGFpbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Setting/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9TZXR0aW5nL0VkaXQuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Setting/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xTZXR0aW5nXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Setting/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9TZXR0aW5nL0luZGV4LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Setting/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xTZXR0aW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9TaGFyZWQvX0xheW91dC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xTaGFyZWRcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Slider/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9TbGlkZXIvQ3JlYXRlLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Slider/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xTbGlkZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Slider/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9TbGlkZXIvRGV0YWlsLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Slider/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xTbGlkZXJcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Slider/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9TbGlkZXIvRWRpdC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Slider/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xTbGlkZXJcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Slider/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9TbGlkZXIvSW5kZXguY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/Slider/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xTbGlkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9fVmlld0ltcG9ydHMuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Areas/RazorAdmin/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXMvUmF6b3JBZG1pbi9WaWV3cy9fVmlld1N0YXJ0LmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Areas/RazorAdmin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcUmF6b3JBZG1pblxWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Account/AccountDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9BY2NvdW50RGV0YWlscy5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Account/AccountDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2NvdW50RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Account/Forgot.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Gb3Jnb3QuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Account/Forgot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Account/RestartPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZXN0YXJ0UGFzc3dvcmQuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Account/RestartPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZXN0YXJ0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Basket/BasketCart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFza2V0L0Jhc2tldENhcnQuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Basket/BasketCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFza2V0XEJhc2tldENhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Contact/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Order/AccountOrders.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvQWNjb3VudE9yZGVycy5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Order/AccountOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcQWNjb3VudE9yZGVycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Order/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvSW5kZXguY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Order/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Page/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFnZS9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Page/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shared/_AccessuarPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BY2Nlc3N1YXJQYXJ0aWFsLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shared/_AccessuarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BY2Nlc3N1YXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shared/_adminSearchAccessoryPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19hZG1pblNlYXJjaEFjY2Vzc29yeVBhcnRpYWwuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shared/_adminSearchAccessoryPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9hZG1pblNlYXJjaEFjY2Vzc29yeVBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shared/_adminSearchProductPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19hZG1pblNlYXJjaFByb2R1Y3RQYXJ0aWFsLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shared/_adminSearchProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9hZG1pblNlYXJjaFByb2R1Y3RQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shared/_BestSellerAccessoryPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19CZXN0U2VsbGVyQWNjZXNzb3J5UGFydGlhbC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shared/_BestSellerAccessoryPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CZXN0U2VsbGVyQWNjZXNzb3J5UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shared/_BestSellersProductPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19CZXN0U2VsbGVyc1Byb2R1Y3RQYXJ0aWFsLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shared/_BestSellersProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CZXN0U2VsbGVyc1Byb2R1Y3RQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shared/_ProductPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Qcm9kdWN0UGFydGlhbC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shared/_ProductPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0UGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shared/_SearchPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TZWFyY2hQYXJ0aWFsLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shared/_SearchPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZWFyY2hQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shop/DetailAccessory.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9EZXRhaWxBY2Nlc3NvcnkuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shop/DetailAccessory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxEZXRhaWxBY2Nlc3NvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shop/DetailPhone.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9EZXRhaWxQaG9uZS5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shop/DetailPhone.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxEZXRhaWxQaG9uZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shop/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcC9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shop/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Welcome/ConfirmRegister.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2VsY29tZS9Db25maXJtUmVnaXN0ZXIuY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Welcome/ConfirmRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VsY29tZVxDb25maXJtUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Welcome/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2VsY29tZS9JbmRleC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Welcome/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VsY29tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Wishlist/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvV2lzaGxpc3QvSW5kZXguY3NodG1s
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Wishlist/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lzaGxpc3RcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/albertasadov/Desktop/Razor Final Project Code Academy/Razor Final Project Code Academy/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-nbujjppfba
+[C:/Users/mrfar/OneDrive/Desktop/FinalProject/Razor Final Project Code Academy/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3ulcb4v34s
