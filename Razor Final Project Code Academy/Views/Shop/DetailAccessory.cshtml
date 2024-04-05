@@ -3,6 +3,7 @@
 @{
     List<Accessory> accessories = ViewBag.Accessory;
     List<Product> products = ViewBag.Product;
+    List<Wishlist> wishlist = ViewBag.WishList;
 }
 <section id="detail">
     <div class="container">
@@ -200,17 +201,42 @@
                                         </div>
 
                                         <div class="panelWish">
-                                            <div class="addToWishlist">
-                                                <a asp-controller="Shop" asp-action="AddWishListAcc" asp-route-Id="@Model.Id">
-                                                    <p>Add To My Wish List</p>
-                                                </a>
-                                            </div>
-                                            <div class="deleteFromWishlist">
-                                                <a href="">
-                                                    <p>Remove From Wish List</p>
-                                                </a>
-                                            </div>
+                                            @if (User.Identity.IsAuthenticated)
+                                            {
+                                                if (wishlist != null && wishlist.Any())
+                                                {
+                                                    bool isItemInWishlist = wishlist.Any(item => item.AccessoryId == Model.Id);
+
+                                                    if (isItemInWishlist)
+                                                    {
+                                                        <div class="deleteFromWishlist">
+                                                            <a asp-controller="Wishlist" asp-action="RemoveWishListAcc" asp-route-Id="@Model.Id">
+                                                                <p>Remove From Wish List</p>
+                                                            </a>
+                                                        </div>
+                                                    }
+                                                    else
+                                                    {
+                                                        <div class="addToWishlist">
+                                                            <a asp-controller="Wishlist" asp-action="AddWishListAcc" asp-route-Id="@Model.Id">
+                                                                <p>Add To My Wish List</p>
+                                                            </a>
+                                                        </div>
+                                                    }
+                                                }
+                                                else
+                                                {
+                                                    <div class="addToWishlist">
+                                                        <a asp-controller="Wishlist" asp-action="AddWishListAcc" asp-route-Id="@Model.Id">
+                                                            <p>Add To My Wish List</p>
+                                                        </a>
+                                                    </div>
+                                                }
+                                            }
+
                                         </div>
+
+
                                     </div>
                                 </div>
                             </form>
@@ -433,30 +459,29 @@
                             </div>
                         </div>
 
-                        <div class="main">
-
-                            <div class="row gy-2 gx-2">
+                        <div class="mainCommentContent">
+                            <div class="row">
                                 @foreach (var item in Model.AccessoryComments)
                                 {
-                                    <div class="col-lg-4 col-12">
-                                        <div class="comments" style="padding-left: 0px; border: 1px solid rgba(208, 215, 222, 0.8392156863); padding: 5px; height: 275px; ">
+                                    <div class="comments col-lg-12 col-12">
 
-                                            <div class="name">
-                                                <p>@item.CreationTime</p>
-                                            </div>
+                                        <div class="name">
+                                            <p>@item.CreationTime</p>
+                                        </div>
 
+                                        <div class="about">
                                             <div class="name">
                                                 <p><span style="margin-right:10px;" class="OrangeColor">Name:</span>@item.Name</p>
                                             </div>
                                             <div class="email">
                                                 <p><span style="margin-right:10px;" class="OrangeColor">Email:</span>@item.Email</p>
                                             </div>
-                                            <div class="subject">
-                                                <p><span style="margin-right:10px;" class="OrangeColor">Subject:</span>@item.Title</p>
-                                            </div>
-                                            <div class="comment">
-                                                <p><span style="margin-right:10px;" class="OrangeColor">Comment:</span>@item.Text</p>
-                                            </div>
+                                        </div>
+                                        <div class="subject">
+                                            <p><span style="margin-right:10px;" class="OrangeColor">Subject:</span>@item.Title</p>
+                                        </div>
+                                        <div class="comment">
+                                            <p><span style="margin-right:10px;" class="OrangeColor">Comment:</span>@item.Text</p>
                                         </div>
                                     </div>
                                 }
@@ -466,6 +491,11 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="up">
+            <i class="fa-solid fa-chevron-up"></i>
         </div>
     </div>
 </section>

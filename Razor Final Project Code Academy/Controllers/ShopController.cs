@@ -29,15 +29,15 @@ namespace Final_Project_Razor.Controllers
             ViewBag.Brand = _context.Brands.ToList();
             ViewBag.Category = _context.Categories.ToList();
 
-            ViewBag.TotalPage = Math.Ceiling((double)_context.Products.Count() / 6);
+            ViewBag.TotalPage = Math.Ceiling((double)_context.Products.Count() / 8);
             ViewBag.CurrentPage = page;
 
             List<Accessory> accessories = _context.Accessories.Include(x => x.AccessoryImages).Include(x => x.AccessoryCategories).Include(x => x.Brand).ToList();
             List<Product> products = _context.Products.Include(x => x.ProductImages).Include(x => x.productCategories).Include(x => x.Brand).ToList();
-            AllVm all = new()
+            AccessoryProductVM all = new()
             {
-                Products = products.Skip((page - 1) * 6).Take(6).AsEnumerable().ToList(),
-                Accessories = accessories.Skip((page - 1) * 6).Take(6).AsEnumerable().ToList()
+                Products = products.Skip((page - 1) * 8).Take(8).AsEnumerable().ToList(),
+                Accessories = accessories.Skip((page - 1) * 8).Take(8).AsEnumerable().ToList()
 
             };
             return View(all);
@@ -77,7 +77,7 @@ namespace Final_Project_Razor.Controllers
             return View(products);
 		}
 
-        public IActionResult DetailAccessory(int id)
+        public async Task<IActionResult> DetailAccessory(int id)
         {
             ViewBag.Color = _context.AccessoryColors
                             .Where(psc => psc.AccessoryId == id)
@@ -86,6 +86,15 @@ namespace Final_Project_Razor.Controllers
                             .Select(s => new { s.Id, s.ColorName })
                             .ToList();
             ViewBag.category = _context.Categories.ToList();
+
+            User? user = new();
+
+            if (User.Identity.IsAuthenticated)
+            {
+                user = await _userManager.FindByNameAsync(User.Identity.Name);
+
+                ViewBag.WishList = _context.Wishlists.Include(x => x.Product).Include(x => x.User).Where(x => x.UserId == user.Id && x.IsAccessory == false).ToList();
+            }
             if (id == 0) return BadRequest();
             Accessory? accessory = _context.Accessories.Include(x => x.AccessoryImages).Include(x => x.AccessoryCategories).Include(x=>x.AccessoryComments).Include(x => x.Brand).FirstOrDefault(x => x.Id == id);
             ViewBag.Accessory = _context.Accessories.Include(x => x.AccessoryImages).Include(x => x.AccessoryCategories).Include(x => x.Brand).ToList();
@@ -104,7 +113,7 @@ namespace Final_Project_Razor.Controllers
             }
             else
             {
-                Product? product = await _context.Products.Include(dt => dt.ProductComments).FirstOrDefaultAsync(p => p.Id == id);
+                Product? product = await _context.Products.Include(dt => dt.ProductComments).OrderByDescending(x=>x.Id).FirstOrDefaultAsync(p => p.Id == id);
 
                 Comment newcomment = new Comment()
                 {
@@ -132,7 +141,7 @@ namespace Final_Project_Razor.Controllers
             }
             else
             {
-                Accessory? accessory = await _context.Accessories.Include(dt => dt.AccessoryComments).FirstOrDefaultAsync(p => p.Id == id);
+                Accessory? accessory = await _context.Accessories.Include(dt => dt.AccessoryComments).OrderByDescending(x => x.Id).FirstOrDefaultAsync(p => p.Id == id);
 
                 Comment newcomment = new Comment()
                 {
@@ -202,103 +211,13 @@ namespace Final_Project_Razor.Controllers
 
             var productList = products.ToList();
             var accessoryList = accessories.ToList();
-            AllVm all = new()
+            AccessoryProductVM all = new()
             {
                 Products = productList.Skip((page - 1) * 6).Take(6).AsEnumerable().ToList(),
                 Accessories = accessoryList.Skip((page - 1) * 6).Take(6).AsEnumerable().ToList()
 
             };
             return View(all);
-        }
-
-
-        public async Task<IActionResult> AddWishList(int Id)
-        {
-
-            Product product = await _context.Products.FindAsync(Id);
-
-            if (product is null)
-            {
-                return NotFound();
-            }
-
-            if (!User.Identity.IsAuthenticated)
-            {
-                return RedirectToAction("Login", "Account");
-            }
-
-            User user = await _userManager.FindByNameAsync(User.Identity.Name);
-
-            Wishlist? userWishList = await _context.Wishlists
-                .FirstOrDefaultAsync(x => x.UserId == user.Id && x.ProductId == Id);
-
-            if (userWishList is null)
-            {
-                userWishList = new Wishlist
-                {
-                    UserId = user.Id,
-                    ProductId = Id,
-                    IsAccessory = false
-                };
-                _context.Wishlists.Add(userWishList);
-            }
-
-            await _context.SaveChangesAsync();
-
-            return Redirect(Request.Headers["Referer"].ToString());
-        }
-
-        public async Task<IActionResult> AddWishListAcc(int Id)
-        {
-
-            Accessory product = await _context.Accessories.FindAsync(Id);
-
-            if (product is null)
-            {
-                return NotFound();
-            }
-
-            if (!User.Identity.IsAuthenticated)
-            {
-                return RedirectToAction("Login", "Account");
-            }
-
-            User user = await _userManager.FindByNameAsync(User.Identity.Name);
-
-            Wishlist? userWishList = await _context.Wishlists
-                .FirstOrDefaultAsync(x => x.UserId == user.Id && x.AccessoryId == Id);
-
-            if (userWishList is null)
-            {
-                userWishList = new Wishlist
-                {
-                    UserId = user.Id,
-                    AccessoryId = Id,
-                    IsAccessory = true
-                };
-                _context.Wishlists.Add(userWishList);
-            }
-
-            await _context.SaveChangesAsync();
-
-            return Redirect(Request.Headers["Referer"].ToString());
-        }
-
-        public async Task<IActionResult> WishlistRemove(int Id)
-        {
-            User user = await _userManager.FindByNameAsync(User.Identity.Name);
-            Wishlist? wishlist = await _context.Wishlists
-                .FirstOrDefaultAsync(x => x.UserId == user.Id && x.Id == Id);
-
-            if (wishlist is null)
-            {
-                return NotFound();
-            }
-
-            _context.Wishlists.Remove(wishlist);
-            await _context.SaveChangesAsync();
-
-            return Redirect(Request.Headers["Referer"].ToString());
         }
 
         [HttpPost]
