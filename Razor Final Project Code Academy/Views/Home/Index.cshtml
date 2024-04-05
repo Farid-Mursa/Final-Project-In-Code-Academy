@@ -8,6 +8,7 @@
 
     List < Accessory > newAccessory = ViewBag.NewWatch;
 
+    List<Comment> comments =  ViewBag.Comments;
 
 }
 <main>
@@ -253,48 +254,26 @@
                         </div>
 
                         <div class="review">
-                            <div class="reviews">
-                                <div class="text-image">
-                                    <div class="image">
-                                        <img src="~/assets/images/More/quocte.png" alt="">
+                            @foreach (var item in comments)
+                            {
+                                <div class="reviews">
+                                    <div class="text-image" style=" height: 388px">
+                                        <div class="image">
+                                            <img style=" margin-bottom: 40px;" src="~/assets/images/More/quocte.png" alt="">
+                                        </div>
+                                        <div class="text">
+                                            <p style="text-align: center;">
+                                                “@item.Text”
+                                            </p>
+                                        </div>
                                     </div>
-                                    <div class="text">
-                                        <p>
-                                            “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                                            consequat
-                                            orci sed nibh ultricies, eget sollicitudin quam consectetur. Donec at
-                                            mattis
-                                            purus, ut accumsan nisl. Lorem ipsum dolor sit amet”
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="about">
-                                    <div class="name">
-                                        <span>Sharon Stone</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="reviews">
-                                <div class="text-image">
-                                    <div class="image">
-                                        <img src="~/assets/images/More/quocte.png" alt="">
-                                    </div>
-                                    <div class="text">
-                                        <p>
-                                            “Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                                            consequat
-                                            orci sed nibh ultricies, eget sollicitudin quam consectetur. Donec at
-                                            mattis
-                                            purus, ut accumsan nisl. Lorem ipsum dolor sit amet”
-                                        </p>
+                                    <div class="about">
+                                        <div class="name">
+                                            <span>@item.Name</span>
+                                        </div>
                                     </div>
                                 </div>
-                                <div class="about">
-                                    <div class="name">
-                                        <span>Sharon Stone</span>
-                                    </div>
-                                </div>
-                            </div>
+                            }
                         </div>
 
                     </div>
@@ -343,11 +322,6 @@
                                                             @item.Descr
                                                         </p>
                                                     </div>
-                                                    <div class="addToCard">
-                                                        <a href="">
-                                                            Add To Card
-                                                        </a>
-                                                    </div>
                                                 </div>
                                             </li>
                                         </ul>
@@ -384,11 +358,6 @@
                                                             @item.Descr
                                                         </p>
                                                     </div>
-                                                    <div class="addToCard">
-                                                        <a asp-controller="Basket" asp-action="Addbaskets" asp-route-productId="@item.Id">
-                                                            Add To Card
-                                                        </a>
-                                                    </div>
                                                 </div>
                                             </li>
                                         </ul>
@@ -405,9 +374,9 @@
                                         <h5>Phones</h5>
                                     </div>
                                     <ul>
-                                        <li><a href="">Accessories</a></li>
-                                        <li><a href="">TV & Video</a></li>
-                                        <li><a href="">Health & Beauty</a></li>
+                                        <li>Phones</li>
+                                        <li>Cases</li>
+                                        <li>Phone Accessory</li>
                                     </ul>
                                 </div>
                                 <div class="lineOrange">
@@ -418,7 +387,8 @@
                             <div class="products">
 
                                 @foreach (var item in phones)
-                                {
+                                    {
+                                        
                                     <ul>
                                         <li>
                                             <div class="image">
@@ -456,12 +426,6 @@
                                                         </div>
                                                     </div>
                                                 }
-
-                                                <div class="addToCard">
-                                                    <a href="">
-                                                        Add To Card
-                                                    </a>
-                                                </div>
                                             </div>
                                         </li>
                                     </ul>
@@ -486,9 +450,9 @@
                                         <h5>Accessory</h5>
                                     </div>
                                     <ul>
-                                        <li><a href="">Accessories</a></li>
-                                        <li><a href="">TV & Video</a></li>
-                                        <li><a href="">Health & Beauty</a></li>
+                                        <li>Watches</li>
+                                        <li>Cases</li>
+                                        <li>Accessory</li>
                                     </ul>
                                 </div>
                                 <div class="lineOrange">
@@ -537,11 +501,6 @@
                                                         </div>
                                                     </div>
                                                 }
-                                                <div class="addToCard">
-                                                    <a href="">
-                                                        Add To Card
-                                                    </a>
-                                                </div>
                                             </div>
                                         </li>
                                     </ul>
