@@ -92,7 +92,11 @@ namespace Final_Project_Razor.Controllers
 
         public IActionResult Login()
 		{
-			return View();
+            if (User.Identity.IsAuthenticated)
+            {
+                return RedirectToAction("Index", "Home");
+            }
+            return View();
 		}
 
         [HttpPost]
